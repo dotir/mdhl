@@ -1,1 +1,1 @@
-# mdhl
+# Migthy Ducks Hockey League
